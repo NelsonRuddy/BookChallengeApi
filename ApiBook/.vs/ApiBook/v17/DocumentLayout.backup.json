@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2576725F-743F-46C1-A772-345473BB7573}|Core\\Core.csproj|c:\\users\\npaulino\\source\\repos\\apibook\\core\\dto\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576725F-743F-46C1-A772-345473BB7573}|Core\\Core.csproj|solutionrelative:core\\dto\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98E8DB5-0D74-4A90-8A47-DE848C5077D0}|BookServiceApi\\BookServiceApi.csproj|c:\\users\\npaulino\\source\\repos\\apibook\\bookserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98E8DB5-0D74-4A90-8A47-DE848C5077D0}|BookServiceApi\\BookServiceApi.csproj|solutionrelative:bookserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98E8DB5-0D74-4A90-8A47-DE848C5077D0}|BookServiceApi\\BookServiceApi.csproj|c:\\users\\npaulino\\source\\repos\\apibook\\bookserviceapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98E8DB5-0D74-4A90-8A47-DE848C5077D0}|BookServiceApi\\BookServiceApi.csproj|solutionrelative:bookserviceapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98E8DB5-0D74-4A90-8A47-DE848C5077D0}|BookServiceApi\\BookServiceApi.csproj|c:\\users\\npaulino\\source\\repos\\apibook\\bookserviceapi\\extensions\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98E8DB5-0D74-4A90-8A47-DE848C5077D0}|BookServiceApi\\BookServiceApi.csproj|solutionrelative:bookserviceapi\\extensions\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576725F-743F-46C1-A772-345473BB7573}|Core\\Core.csproj|c:\\users\\npaulino\\source\\repos\\apibook\\core\\dto\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576725F-743F-46C1-A772-345473BB7573}|Core\\Core.csproj|solutionrelative:core\\dto\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98E8DB5-0D74-4A90-8A47-DE848C5077D0}|BookServiceApi\\BookServiceApi.csproj|c:\\users\\npaulino\\source\\repos\\apibook\\bookserviceapi\\bookserviceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D98E8DB5-0D74-4A90-8A47-DE848C5077D0}|BookServiceApi\\BookServiceApi.csproj|solutionrelative:bookserviceapi\\bookserviceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576725F-743F-46C1-A772-345473BB7573}|Core\\Core.csproj|c:\\users\\npaulino\\source\\repos\\apibook\\core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576725F-743F-46C1-A772-345473BB7573}|Core\\Core.csproj|solutionrelative:core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576725F-743F-46C1-A772-345473BB7573}|Core\\Core.csproj|c:\\users\\npaulino\\source\\repos\\apibook\\core\\models\\bookserviceoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576725F-743F-46C1-A772-345473BB7573}|Core\\Core.csproj|solutionrelative:core\\models\\bookserviceoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576725F-743F-46C1-A772-345473BB7573}|Core\\Core.csproj|c:\\users\\npaulino\\source\\repos\\apibook\\core\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576725F-743F-46C1-A772-345473BB7573}|Core\\Core.csproj|solutionrelative:core\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9323D0A7-1D8B-426D-84A7-251EF5547E28}|Infraestructure\\Infraestructure.csproj|c:\\users\\npaulino\\source\\repos\\apibook\\infraestructure\\servicesimpl\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9323D0A7-1D8B-426D-84A7-251EF5547E28}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\servicesimpl\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9323D0A7-1D8B-426D-84A7-251EF5547E28}|Infraestructure\\Infraestructure.csproj|c:\\users\\npaulino\\source\\repos\\apibook\\infraestructure\\helpers\\apiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9323D0A7-1D8B-426D-84A7-251EF5547E28}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\helpers\\apiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98E8DB5-0D74-4A90-8A47-DE848C5077D0}|BookServiceApi\\BookServiceApi.csproj|c:\\users\\npaulino\\source\\repos\\apibook\\bookserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D98E8DB5-0D74-4A90-8A47-DE848C5077D0}|BookServiceApi\\BookServiceApi.csproj|solutionrelative:bookserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 170,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Core\\models\\Book.cs",
+              "RelativeDocumentMoniker": "Core\\models\\Book.cs",
+              "ToolTip": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Core\\models\\Book.cs",
+              "RelativeToolTip": "Core\\models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:29:45.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\BookServiceApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookServiceApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\BookServiceApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookServiceApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:58:42.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Infraestructure\\ServicesImpl\\BookService.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\ServicesImpl\\BookService.cs",
+              "ToolTip": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Infraestructure\\ServicesImpl\\BookService.cs",
+              "RelativeToolTip": "Infraestructure\\ServicesImpl\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:37:43.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Core\\services\\IBookService.cs",
+              "RelativeDocumentMoniker": "Core\\services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Core\\services\\IBookService.cs",
+              "RelativeToolTip": "Core\\services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:37:24.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Core\\dto\\BookUpdateDto.cs",
+              "RelativeDocumentMoniker": "Core\\dto\\BookUpdateDto.cs",
+              "ToolTip": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Core\\dto\\BookUpdateDto.cs",
+              "RelativeToolTip": "Core\\dto\\BookUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:37:02.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Core\\dto\\BookCreateDto.cs",
+              "RelativeDocumentMoniker": "Core\\dto\\BookCreateDto.cs",
+              "ToolTip": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Core\\dto\\BookCreateDto.cs",
+              "RelativeToolTip": "Core\\dto\\BookCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:36:54.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Infraestructure\\helpers\\ApiEndpoints.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\helpers\\ApiEndpoints.cs",
+              "ToolTip": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Infraestructure\\helpers\\ApiEndpoints.cs",
+              "RelativeToolTip": "Infraestructure\\helpers\\ApiEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:36:49.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HttpClientExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\BookServiceApi\\extensions\\HttpClientExtensions.cs",
+              "RelativeDocumentMoniker": "BookServiceApi\\extensions\\HttpClientExtensions.cs",
+              "ToolTip": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\BookServiceApi\\extensions\\HttpClientExtensions.cs",
+              "RelativeToolTip": "BookServiceApi\\extensions\\HttpClientExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:31:04.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookServiceOptions.cs",
+              "DocumentMoniker": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Core\\models\\BookServiceOptions.cs",
+              "RelativeDocumentMoniker": "Core\\models\\BookServiceOptions.cs",
+              "ToolTip": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\Core\\models\\BookServiceOptions.cs",
+              "RelativeToolTip": "Core\\models\\BookServiceOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:16:48.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookServiceApi.csproj",
+              "DocumentMoniker": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\BookServiceApi\\BookServiceApi.csproj",
+              "RelativeDocumentMoniker": "BookServiceApi\\BookServiceApi.csproj",
+              "ToolTip": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\BookServiceApi\\BookServiceApi.csproj",
+              "RelativeToolTip": "BookServiceApi\\BookServiceApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T15:06:13.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\BookServiceApi\\Program.cs",
+              "RelativeDocumentMoniker": "BookServiceApi\\Program.cs",
+              "ToolTip": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\BookServiceApi\\Program.cs",
+              "RelativeToolTip": "BookServiceApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:32:44.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\BookServiceApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BookServiceApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\npaulino\\source\\repos\\ApiBook\\BookServiceApi\\appsettings.json",
+              "RelativeToolTip": "BookServiceApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T11:57:47.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
