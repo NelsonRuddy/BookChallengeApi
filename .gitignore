@@ -1,0 +1,60 @@
+# Ignorar archivos y carpetas de .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.ide
+*.sln.docstates
+
+# Ignorar archivos de configuración de Visual Studio
+.vs/
+*.vs/
+
+# Ignorar archivos de paquetes de NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Ignorar archivos de configuración de Rider
+.idea/
+*.sln.iml
+
+# Ignorar archivos de configuración de Resharper
+_ReSharper*/
+*resharper*
+*.DotSettings
+*.DotSettings.user
+
+# Ignorar archivos de paquetes de .NET
+project.lock.json
+project.fragment.lock.json
+*.dbmdl
+
+# Ignorar archivos temporales de .NET
+*.pdb
+*.mdb
+*.log
+
+# Ignorar carpetas de build
+publish/
+dist/
+
+# Ignorar archivos de Vue.js
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignorar archivos de configuración de IDEs
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
